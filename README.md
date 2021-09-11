@@ -6,5 +6,6 @@
 👩‍💻 **Current Project** GamePanel <div> 
   
   
- https://profile-counter.glitch.me/WavingCatDevs/count.svg
+![Visitor Count](https://profile-counter.glitch.me/WavingCatDevs/count.svg)
+
 
