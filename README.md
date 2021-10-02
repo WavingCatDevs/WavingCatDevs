@@ -9,6 +9,6 @@
 <div>
   
   
-![Visitor Count](https://profile-counter.glitch.me/WavingCatDevs/count.svg)
+[![WavingCats's GitHub stats](https://github-readme-stats.vercel.app/api?username=WavingCatDevs)](https://github.com/anuraghazra/github-readme-stats)
 
 
