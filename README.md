@@ -22,7 +22,7 @@
 
 ---
 
-<img align="left" alt="WavingCat's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=WavingCat&show_icons=true&hide_border=true" />
+<img align="left" alt="WavingCat's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=WavingCatDevs&show_icons=true&hide_border=true" />
 
 <br />
 <br />
