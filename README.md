@@ -2,7 +2,7 @@
 
 ## I'm a developer
 
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning GoLang
 - 👯 I'm looking for jobs
 - 🥅 My goals are develop more web apps and learn more languages
 - ⚡ Fun fact: I can play the drums
